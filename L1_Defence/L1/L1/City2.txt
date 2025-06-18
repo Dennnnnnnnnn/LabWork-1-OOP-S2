@@ -1,0 +1,10 @@
+﻿City2Exchange
+AnnaWhite;Designer;F;5;7;2100
+JamesMiller;Technician;M;6;7;5100
+LauraWilson;Engineer;F;2;5;1900
+DavidAnderson;Developer;M;5;6;2800
+SophiaMartinez;Nurse;F;3;6;1900
+HenryThompson;Chef;M;4;5;2200
+IsabellaKing;Librarian;F;3;4;1800
+NoahCarter;Mechanic;M;5;6;2300
+MiaLopez;Waitress;F;2;5;1700

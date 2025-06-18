@@ -1,0 +1,14 @@
+﻿AdditionalExchange
+BenjaminClark;Analyst;M;4;6;2200
+NatalieFoster;Scientist;F;6;7;2600
+ChristopherEvans;Technician;M;5;8;2300
+JessicaWright;Doctor;F;7;6;3200
+MatthewHall;Journalist;M;4;6;2000
+AshleyYoung;Pharmacist;F;5;7;2400
+RyanBaker;Lawyer;M;6;6;2800
+HannahMitchell;Psychologist;F;4;5;4100
+JoshuaPerez;Pilot;M;8;7;4000
+LaurenAdams;Artist;F;2;5;1800
+BrandonNelson;Mechanic;M;5;6;2300
+SamanthaCarter;Veterinarian;F;7;8;3100
+DylanGonzalez;Firefighter;M;4;6;2200

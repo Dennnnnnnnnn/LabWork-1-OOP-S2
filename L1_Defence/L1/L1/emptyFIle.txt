@@ -1,0 +1,167 @@
+﻿City1Exchange
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+JohnSmith          Engineer         M                5                8          2500    
+EmilyDavis         Accountant       F                3                6          1800    
+RobertBrown        Technician       M                6                7          2200    
+SarahJohnson       Nurse            F                4                6          2000    
+MichaelLee         Developer        M                7                8          4900    
+DanielScott        Plumber          M                2                5          1700    
+OliviaGreen        Teacher          F                5                6          2100    
+LiamWalker         Electrician      M                4                7          2200    
+SophiaHarris       Designer         F                3                6          2000    
+---------------------------------------------------------------------------------------
+
+City2Exchange
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+AnnaWhite          Designer         F                5                7          2100    
+JamesMiller        Technician       M                6                7          5100    
+LauraWilson        Engineer         F                2                5          1900    
+DavidAnderson      Developer        M                5                6          2800    
+SophiaMartinez     Nurse            F                3                6          1900    
+HenryThompson      Chef             M                4                5          2200    
+IsabellaKing       Librarian        F                3                4          1800    
+NoahCarter         Mechanic         M                5                6          2300    
+MiaLopez           Waitress         F                2                5          1700    
+---------------------------------------------------------------------------------------
+
+Number of employees who fit criteria from 1st stock exchange: 6
+Number of employees who fit criteria from 2nd stock exchange: 5
+
+Employees found according selected criteria 
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+JohnSmith          Engineer         M                5                8          2500    
+RobertBrown        Technician       M                6                7          2200    
+SarahJohnson       Nurse            F                4                6          2000    
+MichaelLee         Developer        M                7                8          4900    
+OliviaGreen        Teacher          F                5                6          2100    
+LiamWalker         Electrician      M                4                7          2200    
+AnnaWhite          Designer         F                5                7          2100    
+JamesMiller        Technician       M                6                7          5100    
+DavidAnderson      Developer        M                5                6          2800    
+HenryThompson      Chef             M                4                5          2200    
+NoahCarter         Mechanic         M                5                6          2300    
+---------------------------------------------------------------------------------------
+
+
+Number of employees:11
+
+Sorted container 
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+MichaelLee         Developer        M                7                8          4900    
+RobertBrown        Technician       M                6                7          2200    
+JamesMiller        Technician       M                6                7          5100    
+AnnaWhite          Designer         F                5                7          2100    
+DavidAnderson      Developer        M                5                6          2800    
+JohnSmith          Engineer         M                5                8          2500    
+NoahCarter         Mechanic         M                5                6          2300    
+OliviaGreen        Teacher          F                5                6          2100    
+HenryThompson      Chef             M                4                5          2200    
+LiamWalker         Electrician      M                4                7          2200    
+SarahJohnson       Nurse            F                4                6          2000    
+---------------------------------------------------------------------------------------
+
+
+Employees need to be removed
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+MichaelLee         Developer        M                7                8          4900    
+JamesMiller        Technician       M                6                7          5100    
+---------------------------------------------------------------------------------------
+
+
+Employees after removing unemployed people 
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+RobertBrown        Technician       M                6                7          2200    
+AnnaWhite          Designer         F                5                7          2100    
+DavidAnderson      Developer        M                5                6          2800    
+JohnSmith          Engineer         M                5                8          2500    
+NoahCarter         Mechanic         M                5                6          2300    
+OliviaGreen        Teacher          F                5                6          2100    
+HenryThompson      Chef             M                4                5          2200    
+LiamWalker         Electrician      M                4                7          2200    
+SarahJohnson       Nurse            F                4                6          2000    
+---------------------------------------------------------------------------------------
+
+
+Employees from separate file
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+BenjaminClark      Analyst          M                4                6          2200    
+NatalieFoster      Scientist        F                6                7          2600    
+ChristopherEvans   Technician       M                5                8          2300    
+JessicaWright      Doctor           F                7                6          3200    
+MatthewHall        Journalist       M                4                6          2000    
+AshleyYoung        Pharmacist       F                5                7          2400    
+RyanBaker          Lawyer           M                6                6          2800    
+HannahMitchell     Psychologist     F                4                5          4100    
+JoshuaPerez        Pilot            M                8                7          4000    
+LaurenAdams        Artist           F                2                5          1800    
+BrandonNelson      Mechanic         M                5                6          2300    
+SamanthaCarter     Veterinarian     F                7                8          3100    
+DylanGonzalez      Firefighter      M                4                6          2200    
+---------------------------------------------------------------------------------------
+
+
+Employees need to be added
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+BenjaminClark      Analyst          M                4                6          2200    
+NatalieFoster      Scientist        F                6                7          2600    
+ChristopherEvans   Technician       M                5                8          2300    
+JessicaWright      Doctor           F                7                6          3200    
+MatthewHall        Journalist       M                4                6          2000    
+AshleyYoung        Pharmacist       F                5                7          2400    
+RyanBaker          Lawyer           M                6                6          2800    
+BrandonNelson      Mechanic         M                5                6          2300    
+SamanthaCarter     Veterinarian     F                7                8          3100    
+DylanGonzalez      Firefighter      M                4                6          2200    
+---------------------------------------------------------------------------------------
+
+
+Employees from separate file were added
+---------------------------------------------------------------------------------------
+  Name and surname Profession     Gender        Experience       Working time   Salary
+---------------------------------------------------------------------------------------
+
+JessicaWright      Doctor           F                7                6          3200    
+SamanthaCarter     Veterinarian     F                7                8          3100    
+RyanBaker          Lawyer           M                6                6          2800    
+NatalieFoster      Scientist        F                6                7          2600    
+RobertBrown        Technician       M                6                7          2200    
+AnnaWhite          Designer         F                5                7          2100    
+DavidAnderson      Developer        M                5                6          2800    
+JohnSmith          Engineer         M                5                8          2500    
+NoahCarter         Mechanic         M                5                6          2300    
+BrandonNelson      Mechanic         M                5                6          2300    
+AshleyYoung        Pharmacist       F                5                7          2400    
+OliviaGreen        Teacher          F                5                6          2100    
+ChristopherEvans   Technician       M                5                8          2300    
+BenjaminClark      Analyst          M                4                6          2200    
+HenryThompson      Chef             M                4                5          2200    
+LiamWalker         Electrician      M                4                7          2200    
+DylanGonzalez      Firefighter      M                4                6          2200    
+MatthewHall        Journalist       M                4                6          2000    
+SarahJohnson       Nurse            F                4                6          2000    
+---------------------------------------------------------------------------------------
+

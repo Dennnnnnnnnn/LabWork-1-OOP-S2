@@ -1,0 +1,10 @@
+﻿City1Exchange
+JohnSmith;Engineer;M;5;8;2500
+EmilyDavis;Accountant;F;3;6;1800
+RobertBrown;Technician;M;6;7;2200
+SarahJohnson;Nurse;F;4;6;2000
+MichaelLee;Developer;M;7;8;4900
+DanielScott;Plumber;M;2;5;1700
+OliviaGreen;Teacher;F;5;6;2100
+LiamWalker;Electrician;M;4;7;2200
+SophiaHarris;Designer;F;3;6;2000
